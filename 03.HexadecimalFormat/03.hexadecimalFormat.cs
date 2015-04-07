@@ -8,8 +8,8 @@ class HexadecimalFormat
 {
     static void Main()
     {
-        ushort hexadecimal = 254;
-        Console.WriteLine(hexadecimal);
+        int number = (0xFE);
+        Console.WriteLine(number);
         Console.Read();
     }
 }
